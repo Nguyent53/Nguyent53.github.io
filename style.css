@@ -1,4 +1,4 @@
-body{
+  body{
         background-color: rgb(157, 178, 191);
     }
         h1{
@@ -11,9 +11,7 @@ body{
                 padding-bottom: 12px;
                  border: 6px solid orange;
                   font: italic 40px fantasy;
-                  
         }
-        
         h2{
             font-family: Sans-serif;
             font-size: 28px;
@@ -22,11 +20,11 @@ body{
             margin-left:325px;
             color: green;
         }
-        .Kim{
-            width:70%;
-                height:2
+        #haha{
+                height:230;
                 400px;
                  border:10px solid purple;
+                 margin-top: -1900;
         } 
         h4{
           font-family: "Helvetica", sans-serif;
@@ -35,5 +33,14 @@ body{
             line-height: 1.5em;
             text-align: center;
             color: red;
-            font-style: initial;
+           
         }
+        .Bye{
+                border:10px solid purple;  
+                height:230;
+                margin-left:400;
+        }
+        .hello{
+            margin-left:52px;
+            line-height: 1.5em;
+            font-family: cursive         
