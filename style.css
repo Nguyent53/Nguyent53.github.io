@@ -60,6 +60,7 @@
 #Tam{
     margin-left:80%;
     border: 8px double red;
+  float: left;
 }
 #LeLy{
     text-align: left;
