@@ -55,7 +55,9 @@
                 height:2
                 400px;
                  border:10px solid purple;
-                 
+             display: block;
+margin-left: auto;
+  margin-right: auto;
 }
 #Tam{
     margin-left:80%;
