@@ -11,6 +11,9 @@
                 padding-bottom: 12px;
                  border: 6px solid orange;
                   font: italic 40px fantasy;
+          display: block;
+margin-left: auto;
+  margin-right: auto;
         }
         h2{
             font-family: Sans-serif;
