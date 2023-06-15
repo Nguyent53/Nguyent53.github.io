@@ -11,9 +11,7 @@
                 padding-bottom: 12px;
                  border: 6px solid orange;
                   font: italic 40px fantasy;
-          display: block;
-margin-left: auto;
-  margin-right: auto;
+         text-align:center; 
         }
         h2{
             font-family: Sans-serif;
@@ -51,7 +49,7 @@ margin-left: auto;
         #Ly{
             font-family:cursive;
             line-height:1.5em;
-            text-alignl: center;
+            text-align: center;
         }    
 #Kim{
             width:70%;
@@ -70,16 +68,21 @@ margin-left: auto;
 }
 #LeLy{
  font-size:35px;
-  text-alignl: left;
+  text-align: left;
 }
   .Tu{
     font-size:35px
       font-style: Arial;
      line-height: 1.5em;
     float: right;
-    text-alignl: center;
+    text-align: center;
 }
 table{
   font-size:35px;
-  text-alignl: center;
+  text-align: center;
+}
+#hi{
+    display: block;
+margin-left: auto;
+  margin-right: auto;
 }
