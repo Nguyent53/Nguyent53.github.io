@@ -76,7 +76,7 @@ margin-left: auto;
      line-height: 1.5em;
     float: left;
     text-align: center;
-    width: 60%;
+    width: 75%;
 }
 table{
   font-size:35px;
@@ -90,5 +90,5 @@ margin-left: auto;
 #Vinh{
   float: right;
    border:4px solid purple;
-  width: 40%;
+  width: 15%;
 }
