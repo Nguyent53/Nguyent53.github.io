@@ -87,8 +87,14 @@ margin-left: auto;
   float: right;
    border:4px solid purple;
   width: 15%;
+  background-color: grey;
 }
 #Tin{
   font-size:20px;
   text-align: center;
+}
+#Hoa{
+  font-family:Arial, sans-serif;
+    font_size:20px;
+  color: green;
 }
