@@ -78,10 +78,6 @@ margin-left: auto;
     text-align: center;
     width: 75%;
 }
-table{
-  font-size:35px;
-  text-align: center;
-}
 #hi{
     display: block;
 margin-left: auto;
@@ -91,4 +87,8 @@ margin-left: auto;
   float: right;
    border:4px solid purple;
   width: 15%;
+}
+#Tin{
+  font-size:20px;
+  text-align: center;
 }
