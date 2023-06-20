@@ -1,8 +1,8 @@
   body{
-        background-color: rgb(157, 178, 191);
+        background-color: rgb(50, 30, 30);
     }
         h1{
-            background-color: rgb(121, 224, 238);
+            background-color: rgb(17, 109, 110);
             color: blue;
             padding: 35px 302px;
             border-top: 10px solid rgb(222, 222, 222);
@@ -19,7 +19,7 @@
             font-style: italic;
             font-weight:bold;
             margin-left:325px;
-            color: green;
+            color: rgb(205, 24, 24);
         }
         #haha{
                 height:230;
@@ -33,7 +33,7 @@
             font-style: italic;
             line-height: 1.5em;
             text-align: center;
-            color: red;
+            color: rgb(205, 24, 24);
            
         }
         .Bye{
@@ -84,7 +84,6 @@ margin-left: auto;
   float: right;
    border:4px solid purple;
   width: 15%;
-  background-color:blue;
 }
 table {
   font-size:20px;
