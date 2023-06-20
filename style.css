@@ -1,15 +1,15 @@
   body{
-        background-color: rgb(50, 30, 30);
+        background-color: rgb(135, 203, 185);
     }
         h1{
-            background-color: rgb(17, 109, 110);
-            color: rgb(205, 24, 240);
+            background-color: rgb(86, 157, 170);
+            color: rgb(185, 237, 221);
             padding: 35px 302px;
             border-top: 10px solid rgb(222, 222, 222);
                 border-bottom: 10px solid rgb(222, 222, 222);
                 padding-top: 6px;
                 padding-bottom: 12px;
-                 border: 6px solid rgb(78, 54, 54);
+                 border: 6px solid rgb(87, 125, 134);
                   font: italic 40px fantasy;
          text-align:center; 
         }
@@ -19,7 +19,7 @@
             font-style: italic;
             font-weight:bold;
             margin-left:325px;
-            color: rgb(205, 24, 24);
+            color: rgb(87, 125, 134);
         }
         #haha{
                 height:230;
@@ -33,7 +33,7 @@
             font-style: italic;
             line-height: 1.5em;
             text-align: center;
-            color: rgb(205, 24, 24);
+            color: rgb(87, 125, 134);
            
         }
         .Bye{
