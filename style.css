@@ -56,6 +56,7 @@
                 height:2
                 400px;
                  border:10px solid purple;
+  float: right;
              
 }
 #Tam{
@@ -95,4 +96,8 @@ margin-left: auto;
   font-family:Arial, sans-serif;
     font_size:20px;
   color:green;
+}
+#Bao{
+  float: left;
+  width: 80%;
 }
